@@ -54,7 +54,6 @@ img {
 
 .pattern-divider {
     margin: 0 0 20px;
-    background-color: red;
 }
 
 .pattern-divider::before {
